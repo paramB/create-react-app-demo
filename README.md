@@ -3,4 +3,4 @@ A react application demo with no build configuration.
 
 ## Contributors
 - Param Bhangal (https://github.com/paramB)
-- Peter Russell (https://github.com/peterussell)
+- Pete Russell (https://github.com/peterussell)
